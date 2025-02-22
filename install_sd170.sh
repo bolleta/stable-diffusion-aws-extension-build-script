@@ -5,7 +5,7 @@
 echo "---------------------------------------------------------------------------------"
 echo "install esd..."
 
-export INITIAL_SUPPORT_COMMIT_ROOT=bef51aed032c0aaa5cfd80445bc4cf0d85b408b5
+export INITIAL_SUPPORT_COMMIT_ROOT=cf2772fab0af5573da775e7437e6acdca424f26e
 export INITIAL_SUPPORT_COMMIT_CONTROLNET=3d75bd08e3f20b9999985a828f7567c84925c862
 export INITIAL_SUPPORT_COMMIT_TILEDVAE=f9f8073e64f4e682838f255215039ba7884553bf
 export INITIAL_SUPPORT_COMMIT_REMBG=a4c07b857e73f3035f759876797fa6de986def3d
